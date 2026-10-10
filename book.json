@@ -1,0 +1,11 @@
+{
+  "title": "Hari's Life",
+  "author": "Hari",
+  "bookId": 1,
+  "authorObj": {
+    "firstName": "Hari",
+    "lastName": "Sharma",
+    "email": "hari@example.com",
+    "phone": 1234567890
+  }
+}
